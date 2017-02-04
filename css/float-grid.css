@@ -32,7 +32,7 @@
   clear: both;
 }
 
-.col-4 {
+.col-4,.col-3,.col-6,.col-12 {
   float: left;
 
   /* Gutters:
